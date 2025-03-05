@@ -1,0 +1,15 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment variables file
+.env
+
+
+FloristicSample/
+FloristicSampleV1/
+FloristicSampleV2/
